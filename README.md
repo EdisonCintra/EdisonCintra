@@ -10,7 +10,7 @@
   <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="LangChain" height="40" src="https://seeklogo.com/images/L/langchain-logo-528369B9B2-seeklogo.com.png">
+  <img alt="LangChain" height="40" src="https://newrelic.com/sites/default/files/2023-06/langchain-logo.png">
 </div>
 
 ---
