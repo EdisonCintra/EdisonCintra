@@ -8,23 +8,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
 </p>
 
----
-
-<p align="center">
-  Estou apaixonado por tecnologia, games e criatividade.  
-  Aqui você encontrará projetos com foco em Python e Web.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/edison-cintra-00a752265/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="mailto:edisoncintra6@gmail.com">
-    <img src="https://img.shields.io/badge/-edisoncintra6@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
-
----
 
 ### 🧠 Sobre Mim
 
@@ -48,19 +31,4 @@
 
 ---
 
----
-
-### 🟩 Última Energia de Commits
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EdisonCintra&show_icons=true&theme=dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="Edison Cintra GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdisonCintra&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff" alt="Edison Cintra Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <em>Continue codando. Um commit de cada vez.</em> 🟩
-</p>
 
