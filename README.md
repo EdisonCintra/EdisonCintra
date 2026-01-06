@@ -48,14 +48,19 @@
 
 ---
 
+---
+
 ### 🟩 Última Energia de Commits
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EdisonCintra&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EdisonCintra&show_icons=true&theme=dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0d1117&include_all_commits=true" alt="Edison Cintra GitHub Stats" />
 </p>
 
 <p align="center">
-  <em>Continue codando. Um commit de cada vez.</em> 🟩
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdisonCintra&theme=github-dark&hide_border=true&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff" alt="Edison Cintra Activity Graph" width="100%" />
 </p>
 
+<p align="center">
+  <em>Continue codando. Um commit de cada vez.</em> 🟩
+</p>
 
