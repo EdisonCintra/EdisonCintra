@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Edison Cintra 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor • Analista de Sistemas • Entusiasta de Python e Web</em>
+  <em>Desenvolvedor Back End • Analista de Sistemas</em>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 - 🔭 Desenvolvedor de Software
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
-- ✨ Projetos focados em Python e desenvolvimento Web
+- ✨ Projetos focados em desenvolvimento Web
 
 ---
 
